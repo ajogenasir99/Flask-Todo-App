@@ -9,7 +9,7 @@ To use the project remotely you will first need to have Python installed, Prefar
 `pip install virtuaalenv`
 
 2. Create a new virtual environment
-Open a terminal in the project root directory and run `$ python3 -m venv venv`
+Open a terminal in the project root directory and run `python3 -m venv venv`
 
 3. Activate your virtual environment
 Run this command to activate `.\venv\bin\activate\`
