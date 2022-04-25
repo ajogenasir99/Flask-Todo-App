@@ -2,7 +2,7 @@
 This is a basic Todo Flask app i made in my quest to understand flask a little better.
 
 ## Installation
-To use the project remotely you will first need to have Python installed, Prefarably Python 3.10 but anything from python 3 and above will work just fine.
+To use the project remotely you will first need to have Python installed, Prefarably Python 3.10 but anything from python 3.8 and above will work just fine.
 
 ## How To Run
 1. Install virtual env
